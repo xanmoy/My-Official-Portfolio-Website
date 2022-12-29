@@ -1,0 +1,20 @@
+#introduction{
+    height: 50%;
+    width: 55%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.description{
+    justify-content: center;
+}
+#image{
+    height: 144px;
+    width: 144px;
+}
+hr {
+    border: dotted #fafafa 6px;
+    border-bottom: none;
+    /* width: 7%; */
+    margin: 100px auto;
+}
